@@ -3,7 +3,7 @@
 LMDX-flow is a Python toolkit designed for document information extraction using LMDX. 
 It simplifies the process of creating prompts which contain document layout information and decoding LLM responses to extract valuable information from documents.
 
-## What is LMDX: LANGUAGE MODEL-BASED DOCUMENT INFORMATION EXTRACTION AND LOCALIZATION?
+## What is LMDX: LANGUAGE MODEL-BASED DOCUMENT INFORMATION EXTRACTION AND LOCALIZATION?(https://arxiv.org/pdf/2309.10952.pdf)
 
 LMDX is a methodology for leveraging off-the-shelf LLMs for information extraction on
 semi-structured documents. 
