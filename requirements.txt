@@ -1,0 +1,11 @@
+numpy==1.26.0
+pandas==2.1.1
+pdf2image==1.16.3
+pillow==10.0.1 
+requests==2.31.0
+safetensors==0.4.0
+tokenizers==0.14.1
+transformers==4.34.0
+typing-extensions==4.8.0
+pytesseract == 0.3.10
+poppler-utils == 0.1.0
