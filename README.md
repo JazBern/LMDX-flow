@@ -30,11 +30,11 @@ and their bounding boxes on the document, while discarding all hallucination.
 - Install tesseract-OCR
 
 ```python
-from lmdx_flow import Pipeline
 ## Load the tokenizer
 from transformers import AutoTokenizer
 tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
+from lmdx_flow import Pipeline
 P = Pipeline(file_path,tokenizer)
 prompts = P.generate_prompt(schema)
 answers = P.postprocess_all_chunks(llm_responses)
