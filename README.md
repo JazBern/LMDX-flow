@@ -6,7 +6,9 @@ It simplifies the process of creating prompts which contain document layout info
 ## What is LMDX: LANGUAGE MODEL-BASED DOCUMENT INFORMATION EXTRACTION AND LOCALIZATION?
 
 LMDX is a methodology for leveraging off-the-shelf LLMs for information extraction on
-semi-structured documents. 
+semi-structured documents.
+
+(/LMDX.png)
 
 Paper : https://arxiv.org/pdf/2309.10952.pdf
 
