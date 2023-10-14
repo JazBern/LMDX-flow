@@ -45,9 +45,9 @@ answers = P.postprocess_all_chunks(llm_responses)
 - Add support for hierarchical entities
 - Add option to use OCR-words as segment (currently uses OCR-lines as segment)
 
-##References
-* [LMDX paper] (https://arxiv.org/pdf/2309.10952.pdf)
-* [Hugging Face Transformers Library] (https://github.com/huggingface/transformers)
+## References
+* [LMDX paper](https://arxiv.org/pdf/2309.10952.pdf)
+* [Hugging Face Transformers Library](https://github.com/huggingface/transformers)
 
 Explore the potential of LMDX-flow to enhance document information extraction using LLMs with ease.
 
