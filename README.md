@@ -8,7 +8,7 @@ It simplifies the process of creating prompts which contain document layout info
 LMDX is a methodology for leveraging off-the-shelf LLMs for information extraction on
 semi-structured documents.
 
-![](/LMDX.png)
+![](/LMDX.png){:height="50px" width="100px"}
 
 Paper : https://arxiv.org/pdf/2309.10952.pdf
 
