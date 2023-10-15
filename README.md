@@ -27,8 +27,12 @@ and their bounding boxes on the document, while discarding all hallucination.
 
 ## Getting Started
 
-- Install tesseract-OCR
+* [Install tesseract-OCR](https://tesseract-ocr.github.io/tessdoc/Installation.html)
+* [Install poppler-utils](https://github.com/Belval/pdf2image#platform-independant-using-conda)
 
+```shell
+pip install lmdx-flow
+```
 ```python
 ## Load the tokenizer
 from transformers import AutoTokenizer
